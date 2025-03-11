@@ -124,7 +124,7 @@ You can contact the maintainers of consumet.ts via [email](mailto:consumet.org@g
 </a>
 
 
-## Contributors ✨
+## Contributorssss ✨
 Thanks to the following people for keeping this project alive and thriving.
 
 [![](https://contrib.rocks/image?repo=consumet/consumet.ts)](https://github.com/consumet/consumet.ts/graphs/contributors)
